@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing MS Computer Science from California State Polytechnic University<br>🧑‍💻 Seeking full-time SDE roles 
+🎓 I have a Masters Degree in Computer Science from California State Polytechnic University<br>🧑‍💻 Seeking full-time SDE roles 
 
 
 ## 🌐 Socials:
