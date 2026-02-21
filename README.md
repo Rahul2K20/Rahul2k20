@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I have a Masters Degree in Computer Science from California State Polytechnic University<br>🧑‍💻 Currently a Software Engineer (Generative AI Applications)
+🎓 I have a Masters Degree in Computer Science from California State Polytechnic University<br>🧑‍💻 Currently an AI Engineer at a Climate Tech Startup 
 
 
 ## 🌐 Socials:
